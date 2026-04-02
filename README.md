@@ -47,6 +47,7 @@ report.html
 <img width="1295" height="731" alt="image" src="https://github.com/user-attachments/assets/08a25451-5ca8-4845-9d5c-f3a7d251dd86" />
 
 metrics.json
+
 <img width="692" height="367" alt="image" src="https://github.com/user-attachments/assets/69d778ff-8f8a-40b3-bdcb-2d988e72b83a" />
 
 ## Requirements
